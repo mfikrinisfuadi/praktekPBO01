@@ -16,6 +16,8 @@ public class MahasiswaAksi{
             Ronaldinho.Nama="Ronaldinho da silva";
             Ronaldinho.NPM="16631987";
             Ronaldinho.IPK=3.5;
+            
+            Ronaldinho.cetakinfo();
     }
     
 }
