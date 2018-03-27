@@ -12,6 +12,10 @@ package praktekpbo01;
 public class MahasiswaAksi{ 
         public static void main(String[] args) {
             Mahasiswa Ronaldinho = new Mahasiswa();
+            
+            Ronaldinho.Nama="Ronaldinho da silva";
+            Ronaldinho.NPM="16631987";
+            Ronaldinho.IPK=3.5;
     }
     
 }
